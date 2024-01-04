@@ -5,7 +5,7 @@
 <ul>
   <li><b>Front-end:</b> HTML5, CSS3</li>
   <li><b>Back-end:</b> JavaScript, React + Vite</li>
-  <li>APIs: Auth0, Deadchat</li>
+  <li><b>APIs:</b> Auth0, Deadchat</li>
 </ul>
 
 
