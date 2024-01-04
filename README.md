@@ -1,5 +1,5 @@
 
-2 / 53 project : "Cooking Connect"
+<b>2 / 53 project : "Cooking Connect"</b><br>
 Description: A chat web application dedicated for food enthusiasts and chefs. 
 Programming Languages used: -Front-end: HTML5, CSS3
                             -Back-end: JavaScript, React + Vite
