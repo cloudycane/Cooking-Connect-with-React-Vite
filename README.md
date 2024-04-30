@@ -1,5 +1,5 @@
 
-<b>2 / 53 project : "Cooking Connect"</b><br>
+<b>"Cooking Connect"</b><br>
 <b>Description:</b> A chat web application dedicated for food enthusiasts and chefs.<br> 
 <b>Programming Languages used:</b> 
 <ul>
